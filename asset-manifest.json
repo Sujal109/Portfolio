@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d4989f0c.css",
+    "main.js": "/portfolio/static/js/main.3f527989.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/shopsphere.png": "/portfolio/static/media/shopsphere.a47599f3763bb6ec5923.png",
+    "static/media/newsPlus.png": "/portfolio/static/media/newsPlus.682eba598e6c293e9713.png",
+    "static/media/NSUT.jpeg": "/portfolio/static/media/NSUT.1b10d2e63b730d086e48.jpeg",
+    "static/media/RPVV.jpg": "/portfolio/static/media/RPVV.36aa66a08ed363f2dba6.jpg",
+    "static/media/SujalAggarwal.jpg": "/portfolio/static/media/SujalAggarwal.37574cedd071250e59b8.jpg",
+    "static/media/react.png": "/portfolio/static/media/react.b5f741c41355d71e1289.png",
+    "static/media/CSS.png": "/portfolio/static/media/CSS.48863df727abf60d580a.png",
+    "static/media/TEXTUTILS.png": "/portfolio/static/media/TEXTUTILS.47505bab2b9ae188fa9e.png",
+    "static/media/NodeJS.png": "/portfolio/static/media/NodeJS.374685ad694cee70eae2.png",
+    "static/media/JS.png": "/portfolio/static/media/JS.c62f802fb6c37160f313.png",
+    "static/media/github.png": "/portfolio/static/media/github.a71df195d0b16e0c22ce.png",
+    "static/media/mongoDB.png": "/portfolio/static/media/mongoDB.f8af78514f5417ab33d4.png",
+    "static/media/Python.png": "/portfolio/static/media/Python.ed695137dd9a2d758990.png",
+    "static/media/cf.png": "/portfolio/static/media/cf.2fc01c530d338c1c78e6.png",
+    "static/media/cpp.png": "/portfolio/static/media/cpp.018a61eea4293d663d58.png",
+    "static/media/express-js.png": "/portfolio/static/media/express-js.9b344d7469dbbdc76754.png",
+    "index.html": "/portfolio/index.html",
+    "main.d4989f0c.css.map": "/portfolio/static/css/main.d4989f0c.css.map",
+    "main.3f527989.js.map": "/portfolio/static/js/main.3f527989.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4989f0c.css",
+    "static/js/main.3f527989.js"
+  ]
+}
