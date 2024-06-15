@@ -6,7 +6,6 @@ import Education from './components/Education.js';
 import Footer from './components/Footer.js';
 import Projects from './components/Projects.js';
 import './App.css';
-import { Router, Routes, Route } from 'react-router-dom';
 function App() {
   return (
     <>
