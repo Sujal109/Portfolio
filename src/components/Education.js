@@ -19,7 +19,7 @@ const Education = () => {
               <p className='text-gray-600'>2022-2026 | Pursuing</p>
             </div>
           </div>
-          <div className='flex flex-col md:flex-row items-center md:items-start border my-5 bg-white shadow-lg rounded-lg overflow-hidden transform transition duration-500 hover:scale-105 hover:shadow-2xl'>
+          {/* <div className='flex flex-col md:flex-row items-center md:items-start border my-5 bg-white shadow-lg rounded-lg overflow-hidden transform transition duration-500 hover:scale-105 hover:shadow-2xl'>
             <img src={RPVV} alt="RPVV" className='w-full md:w-48 h-48 object-cover' />
             <div className='p-5'>
               <h2 className='text-xl font-semibold'>11th & 12th | PCM</h2>
@@ -27,7 +27,7 @@ const Education = () => {
               <h4 className='text-gray-800 mt-2'>96.6 Percentage in CBSE Board</h4>
               <p className='text-gray-600'>2019-2021 | Completed</p>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
