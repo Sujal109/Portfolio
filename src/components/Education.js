@@ -1,6 +1,6 @@
 import React from 'react';
 import NSUT from "../images/NSUT.jpeg";
-import RPVV from "../images/RPVV.jpg";
+// import RPVV from "../images/RPVV.jpg";
 
 const Education = () => {
   return (
