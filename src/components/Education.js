@@ -4,9 +4,9 @@ import RPVV from "../images/RPVV.jpg";
 
 const Education = () => {
   return (
-    <div id="education" className='font-serif bg-slate-200 py-12'>
-      <div className='text-center mb-12'>
-        <h1 className='text-3xl md:text-4xl font-bold'>EDUCATION</h1>
+    <div id="education" className='font-serif bg-slate-200 py-8 md:py-12'>
+      <div className='text-center mb-8 md:mb-12'>
+        <h1 className='text-2xl md:text-4xl font-bold'>EDUCATION</h1>
       </div>
       <div className='flex flex-col items-center'>
         <div className='w-full max-w-4xl'>
@@ -15,7 +15,7 @@ const Education = () => {
             <div className='p-5'>
               <h2 className='text-xl font-semibold'>B.Tech in Computer Science and Engineering</h2>
               <h3 className='text-gray-600'>Netaji Subhas University of Technology, Delhi, India</h3>
-              <h4 className='text-gray-800 mt-2'>8.43 CGPA Upto 3rd Semester</h4>
+              <h4 className='text-gray-800 mt-2'>8.47 CGPA Upto 6th Semester</h4>
               <p className='text-gray-600'>2022-2026 | Pursuing</p>
             </div>
           </div>

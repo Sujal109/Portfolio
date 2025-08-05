@@ -4,7 +4,7 @@ import React from 'react'
 const Navbar = () => {
   return (<>
 
-    <div className=' sticky font-serif flex text-white bg-slate-800 justify-around py-5 font-bold '>
+    <div className='sticky font-serif flex flex-wrap gap-2 text-white bg-slate-800 justify-around py-3 md:py-5 font-bold text-sm md:text-base'>
       <div className='py-2 rounded-xl px-2 hover:bg-slate-200 hover:text-black '>
       <a href="#projects" className=' py-2 rounded-xl px-2 hover:bg-slate-200 hover:text-black'>Projects</a>
       </div>
